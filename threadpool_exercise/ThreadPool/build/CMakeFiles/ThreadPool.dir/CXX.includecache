@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/ThreadPool.cpp
+ThreadPool.h
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/ThreadPool.h
+
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/ThreadPool.h
+iostream
+-
+stdio.h
+-
+stdatomic.h
+-
+time.h
+-
+unistd.h
+-
+queue
+-
+map
+-
+mutex
+-
+thread
+-
+vector
+-
+

@@ -1,0 +1,7 @@
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/install/strip.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/install.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/list_install_components.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/rebuild_cache.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/edit_cache.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/install/local.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/ThreadPool/build/CMakeFiles/ThreadPool.dir

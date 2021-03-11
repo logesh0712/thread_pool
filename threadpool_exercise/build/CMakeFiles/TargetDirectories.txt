@@ -1,0 +1,3 @@
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/build/CMakeFiles/rebuild_cache.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/build/CMakeFiles/edit_cache.dir
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/build/CMakeFiles/primeNumberApp.dir

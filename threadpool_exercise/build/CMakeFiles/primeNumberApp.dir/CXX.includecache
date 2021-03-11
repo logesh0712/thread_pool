@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ThreadPool/ThreadPool.h
+iostream
+-
+stdio.h
+-
+stdatomic.h
+-
+time.h
+-
+unistd.h
+-
+queue
+-
+map
+-
+mutex
+-
+thread
+-
+vector
+-
+
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/PrimeNumberApp/PrimeNumberCalculator.cpp
+PrimeNumberCalculator.h
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/PrimeNumberApp/PrimeNumberCalculator.h
+
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/PrimeNumberApp/PrimeNumberCalculator.h
+ThreadPool.h
+/Volumes/Logesh/Work/Local_Repository/threadpool_exercise/Sense.Features/src/utilities/threadpool_exercise/PrimeNumberApp/ThreadPool.h
+stdio.h
+-
+iostream
+-
+functional
+-
+
