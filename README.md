@@ -5,7 +5,6 @@
   Implement a thread pool. Any application should make use of that thread pool to process the tasks.
   
 **Design of thread pool:**
-  responsibility of thread_pool is below
   thread_pool creates n worker threads based on input and initially all worker threads will be in waiting state.
   task queue is pushed with tasks to be executed and worker threads are notified.
   then waiting worker thread will pick the task from queue and will process it.
